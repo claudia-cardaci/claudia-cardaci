@@ -6,7 +6,7 @@ I'm Claudia, a Psychologist and UX Designer with skills in front-end web develop
 An app designed for parents to easily buy and sell their children's clothing.
 
 Watch a video demonstration of the prototype:
-[![Watch the video](
+
 
 - **Tools used:** Figma
 - **Methodologies:** User Research, Prototyping, Usability Testing
