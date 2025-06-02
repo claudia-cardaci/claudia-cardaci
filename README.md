@@ -3,12 +3,10 @@ Welcome to my design and development showcase. This repository features a collec
 ## Who am I
 I'm Claudia, a Psychologist and UX Designer with skills in front-end web development. I am fascinated by how people think and what captures their attention. Psychology and informatics are my two main passions.
 ## 📁 UX Design projects
-### 1. Kids Wear 
-An app designed for parents to easily buy and sell their children's clothing. Users can upload products by adding photos and necessary details. They can also browse and purchase items listed by other users. 
+### 1. Planty 
+Planty is a smart application that allows users to take a photo of their plants and receive an accurate analysis of their health condition.
 
-Watch a video demonstration of the prototype:
-
-[Watch the demo](demo/high-fidelity%20prototype%20kidswear.mp4)
+In addition to offering quick and reliable diagnoses, the app also enables users to search for a wide variety of plant species and learn about their specific care requirements, including light exposure, watering frequency, and ideal temperature.
 
 \- **Tools used:** Figma, Canva <br>
 \- **Methodologies:** 
@@ -16,33 +14,18 @@ Watch a video demonstration of the prototype:
 - ***Wireframing and Prototyping***: I began designing solutions with paper and digital wireframes, and then created a prototype by adding interactivity. 
 - ***Usability Testing***: the usability test revealed both the strengths and areas for improvement in the design. By incorporating user feedback, I refined the design, resulting in the final version of the product.
 
-### 2. Plant Care
-An app designed to diagnose houseplant problems and enhance their care. Users can take a photo of their plants and receive an accurate analysis of their condition. The app also enables users to search for plants they own or are interested in and learn about their care requirements.
+### 2. AI Document Assistant
+This project is a powerful Generative AI tool designed to facilitate intelligent interaction with documents.
 
-Watch a video demonstration of the prototype:
-
-[Watch the demo](demo/High%20fidelity%20prototype%20plantcare.mp4)
-
+Users can upload one or more files and engage with a chatbot to ask specific questions and quickly retrieve relevant information. The platform also supports advanced document analysis, allowing users to extract insights from key performance indicators and evaluate risk metrics.
 
 \- **Tools used:** Figma, Canva <br>
 \- **Methodologies:** 
-- ***User Research***: the research provided deep insights into users' thoughts, emotions, and experiences. Based on the interview findings, I developed user personas and began brainstorming potential solutions. The main objective was to create an app that provides information about plants and their care in a way that is easy, clear, and fast.
-- ***Wireframing and Prototyping***: I started designing solutions using paper and digital wireframes, and then developed a prototype by incorporating interactivity.
-- ***Usability Testing***: the usability test highlighted both the strengths and weaknesses of the design. Using the feedback from users, I iterated on the design to produce the final version of the product.
-
-### 3. The World of Plants
-This website offers comprehensive information about plants and their specific needs. It serves as a valuable resource for individuals looking to learn about plant care, providing detailed insights on how to nurture various types of plants.
-
-Watch a video demonstration of the prototype:
-
-[Watch the demo](demo/High%20fidelity%20prototype%20website.mp4)
+- ***Research***: the research provided valuable insights into best practices for designing GenAI solutions, as well as a clear understanding of competitors through benchmarking.
+- ***Wireframing***: I started designing solutions using paper and digital wireframes, and then developed a prototype by incorporating interactivity.
+- ***Visual identity***: I defined the project's visual identity by developing a moodboard focused on neumorphism and minimal iconography.
 
 
-\- **Tools used:** Figma, Canva <br>
-\- **Methodologies:** 
-- ***User Research***: the research offered profound insights into users' thoughts, feelings, and experiences. With these insights, I created user personas and started brainstorming potential solutions based on the interview findings. The primary goal was to ensure the website was informative, intuitive, and easy to use.
-- ***Wireframing and Prototyping***: I initially crafted solutions through paper and digital wireframes, and then built an interactive prototype. I also ensured the website’s responsiveness by adapting the design for various devices.
-- ***Usability Testing***: the usability test identified the design's strengths and weaknesses. Incorporating user feedback, I refined the design to finalize the product.
 
 ## 📁 Web Development projects
 ### 1. [The Little Lemon Restaurant](https://github.com/claudia-cardaci/little-lemon-website)
@@ -65,6 +48,7 @@ This project is a website for a fictional restaurant featuring a responsive desi
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat&logo=canva)
 ![Gimp](https://img.shields.io/badge/-Gimp-black?style=flat&logo=gimp)
+![Framer](https://img.shields.io/badge/-Gimp-black?style=flat&logo=framer)
 #### Design process
 - UX Research 🔍
 - Wireframing ✏️
