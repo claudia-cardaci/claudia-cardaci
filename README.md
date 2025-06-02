@@ -48,7 +48,7 @@ This project is a website for a fictional restaurant featuring a responsive desi
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat&logo=canva)
 ![Gimp](https://img.shields.io/badge/-Gimp-black?style=flat&logo=gimp)
-![Framer](https://img.shields.io/badge/-Gimp-black?style=flat&logo=framer)
+![Framer](https://img.shields.io/badge/-Framer-black?style=flat&logo=framer)
 #### Design process
 - UX Research 🔍
 - Wireframing ✏️
