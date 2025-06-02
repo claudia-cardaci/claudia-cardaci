@@ -31,7 +31,7 @@ Users can upload one or more files and engage with a chatbot to ask specific que
 ### 1. [The Little Lemon Restaurant](https://github.com/claudia-cardaci/little-lemon-website)
 This project is a website for a fictional restaurant featuring a responsive design, interactive animations, client-side form validation, and accessibility.
 
-\- **Tools used:** HTML, CSS, Javascript, Gimp
+\- **Tools used:** HTML, CSS, Gimp
 
 ## Skills
 ### Programming Languages
